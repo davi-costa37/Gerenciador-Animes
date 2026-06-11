@@ -12,12 +12,12 @@ import {
 from "https://www.gstatic.com/firebasejs/11.9.1/firebase-firestore.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyACony6BrpgxUrpO6-2gZfUAQp-9YHlWMs",
-  authDomain: "nfclistaanimes.firebaseapp.com",
-  projectId: "nfclistaanimes",
-  storageBucket: "nfclistaanimes.firebasestorage.app",
-  messagingSenderId: "1076095486788",
-  appId: "1:1076095486788:web:4be6288ba9e2225a3be511"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 const app = initializeApp(firebaseConfig);
