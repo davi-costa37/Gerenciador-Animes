@@ -25,3 +25,6 @@ Paginação Inteligente (Exibir Mais): Limita a renderização inicial a 8 eleme
 Frontend: JavaScript Avançado (ES6+ Modules, Async/Await e manipulação assíncrona do DOM).
 
 Persistência em Nuvem: Firebase Firestore v10 (Módulos de consulta por referência, subcoleções e atualizações parciais).
+
+📄 Licença
+Este projeto está sob a licença MIT.
